@@ -1,4 +1,10 @@
-### Hi there 👋
+I’m a mission-driven robotics engineer who is thrilled by solving real world problems through actuation and intelligent decision making.
+
+I primarily use [my Gitlab](https://gitlab.com/gigous) account to push projects I'm working on.
+
+📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/bgigous)
+- [AngelList](https://angel.co/u/gigous)
 
 <!--
 **bgigous/bgigous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
