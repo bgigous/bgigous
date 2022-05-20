@@ -6,6 +6,8 @@ I primarily use [my Gitlab](https://gitlab.com/gigous) account to push projects 
 - [LinkedIn](https://linkedin.com/in/bgigous)
 - [AngelList](https://angel.co/u/gigous)
 
+🧭 I wrote a Flask course! [Check it out here.](https://codingnomads.co/courses/flask-tutorial-python-flask-apps-online-course)
+
 <!--
 **bgigous/bgigous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
